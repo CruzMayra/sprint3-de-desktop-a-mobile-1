@@ -1,0 +1,12 @@
+@media only screen and (max-width:768px) {
+
+  .col-8-mobile {
+    width: 100%;
+    min-height: 300px;
+  }
+
+  .col-4-mobile {
+    width: 100%;
+    min-height: 50px;
+  }
+}
